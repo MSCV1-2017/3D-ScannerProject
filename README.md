@@ -1,6 +1,9 @@
 # 3D-ScannerProject
 Software Engineering Project (C++)
 
+## Overview
+This is a repository for our software engineering project.
+
 ## Obejectives
 To replace the skanect software by our
 own, home-made acquisition and processing software so that we no longer
