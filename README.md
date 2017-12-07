@@ -1,5 +1,5 @@
-# 3D-ScannerProject
-Software Engineering Project (C++)
+# 3D-Scanner
+This is a Software Engineering Project in which we are to build a 3D scanner. 
 
 ## Overview
 This is a repository for our software engineering project.
@@ -17,6 +17,9 @@ available so that functional prototypes can be constructed by the students.
 * **Jaafer Wesam** 
 * **Sonizara Danie**
 
+## Project Management
+Weekly reports are uploaded here and we made a gannt chart to guide us with our project schedule.
+We also use this online tool to communicate with ourselves during this projects.Follow the link ==> [Trello Account](https://trello.com/b/MaBdGQ7p/software-engineering)
+
 ## Acknowledgments
-* 3D-Korn
 * Inspiraton by Skanect
